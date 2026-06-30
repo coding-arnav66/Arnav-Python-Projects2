@@ -2,7 +2,7 @@
 
 Welcome to **Arnav-Python-Projects2** — a collection of fun and beginner-friendly Python scripts created by me, Arnav Saket.  
 Each project is small, easy to run, and designed to learn programming concepts while being enjoyable to use.
-## This is a second part of Arnav-Python-Projects
+## This is the second part of Arnav-Python-Projects
 
 ---
 ## 📂 Projects Included
