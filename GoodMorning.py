@@ -88,6 +88,7 @@ mast = input("Press enter to continue: ")
 joke()
 mast = input("Press enter to continue: ")
 routine()
+print("Have a great day!🌟")
 
 
 
