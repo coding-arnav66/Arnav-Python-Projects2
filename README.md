@@ -18,3 +18,7 @@ Each project is small, easy to run, and designed to learn programming concepts w
 #### Boon: Real time currency conversion with accurate results.
 #### Bane: Can crash if correct syntax is not followed.
 ---
+### - **battlegrounds.py** → Complete landing on a place by playing a game followed by shooting players🎮🟩🎯⏱️ :
+#### Boon: Made with pygame, so no lagging and crashing.
+#### Bane: the game reloads images every frame, which slows performance, once you collide or win, the loop ends immediately; there’s no replay or retry option coded in.
+---
