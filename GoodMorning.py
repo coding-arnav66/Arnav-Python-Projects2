@@ -1,6 +1,5 @@
 import requests, os
 from bs4 import BeautifulSoup
-import google.generativeai as genai
 import randfacts
 import pyjokes
 
