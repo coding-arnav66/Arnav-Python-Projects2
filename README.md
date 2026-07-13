@@ -22,3 +22,7 @@ Each project is small, easy to run, and designed to learn programming concepts w
 #### Boon: Made with pygame, so no lagging and crashing.
 #### Bane: the game reloads images every frame, which slows performance, once you collide or win, the loop ends immediately; there’s no replay or retry option coded in.
 ---
+### - **shooter.py** → A space shooter like game in which you have to move your character using mouse and destroy the opponent character dodging from their bullets🔫🌌🚀:
+#### Boon: Made with pygame, so no lagging and crashing. It also has a health and score count.
+#### Bane:  The image of characters bring a black background with them into the gane, which makes it look odd.
+---
