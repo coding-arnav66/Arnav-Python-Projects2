@@ -26,3 +26,11 @@ Each project is small, easy to run, and designed to learn programming concepts w
 #### Boon: Made with pygame, so no lagging and crashing. It also has a health and score count.
 #### Bane:  The image of characters bring a black background with them into the gane, which makes it look odd.
 ---
+### - **calculator.py** → An calculator app made using tkinker, which can perform basic math equations including exponents, pi, root and factorial🧮🔢📱:
+#### Boon: Its flexible and can work smoothly. Its made using tkinter, and is more user friendly.
+#### Bane: Some things are irritating like typing "*" before and after typing pi.
+---
+### - **alarm.py** → An alarm app made using tkinker, which can set alarms, timers, stopwatch, and can even send message automatically using pywhatkit and pyautogui⏰⏳💬:
+#### Boon: Its flexible and can work smoothly. Its made using tkinter, and is more user friendly.
+#### Bane: Small things have to be updated as shared in a comment of code.
+---
