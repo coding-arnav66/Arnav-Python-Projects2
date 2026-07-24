@@ -34,3 +34,7 @@ Each project is small, easy to run, and designed to learn programming concepts w
 #### Boon: Its flexible and can work smoothly. Its made using tkinter, and is more user friendly.
 #### Bane: Small things have to be updated as shared in a comment of code.
 ---
+### - **crash.py** → A game built with pygame in which player has to move their car right or left to collect coins and avoid crashing 🪙🚗🛣️:
+#### Boon: Game with count of coins and a bar to represent health, makes it more interesting.
+#### Bane: Low quality and uses right and left buttons to move.
+---
